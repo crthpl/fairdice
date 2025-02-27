@@ -1,0 +1,1 @@
+FairDice is a script for simulating and analyzing the behavior of fair and biased dice. It includes functions to generate dice with specified probability distributions, calculate errors between observed and expected probabilities, and visualize the results using interactive sliders.
